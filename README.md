@@ -20,4 +20,4 @@ A GUI-based Blood Bank Management System built using **Python** and **Tkinter** 
 > 📊 The application includes:
 - Form for entering donor information
 - Live bar chart showing blood stock
-- Scrollable table displaying all donor details# Blood-Bank-Management-System
+- Scrollable table displaying all donor details
